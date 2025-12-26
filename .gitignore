@@ -1,0 +1,38 @@
+# Virtual Environment
+tf_env/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Data
+data/student_data.csv
+
+# Models
+models/*.h5
+models/*.pkl
+
+# Plots
+*.png
+!docs/*.png
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
