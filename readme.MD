@@ -19,7 +19,6 @@ A machine learning application that predicts student final exam scores based on 
 - [Troubleshooting](#troubleshooting)
 - [Future Enhancements](#future-enhancements)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -570,7 +569,7 @@ If you still see invalid predictions, retrain the model.
 Contributions are welcome! Here's how you can help:
 
 ### Reporting Bugs
-1. Check if the bug has already been reported in [Issues](https://github.com/yourusername/grade-predictor/issues)
+1. Check if the bug has already been reported in [Issues](https://github.com/g3x-gauransh/Exam-Score-Predictor/issues)
 2. Create a new issue with:
    - Clear title and description
    - Steps to reproduce
@@ -616,41 +615,12 @@ Contributions are welcome! Here's how you can help:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-MIT License
-
-Copyright (c) 2024 [Your Name]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
-
----
-
 ## 👤 Author
 
 **Gauransh**
-- GitHub: [@gauransh](https://github.com/gauransh)
-- LinkedIn: [Gauransh Kumar](https://linkedin.com/in/gauransh-kumar)
-- Portfolio: [gauransh.dev](https://gauransh.dev)
+- GitHub: [@gauransh](https://github.com/g3x-gauransh)
+- LinkedIn: [Gauransh Gupta](www.linkedin.com/in/gauransh-gupta-3b12931b7)
+- Portfolio: [gauransh.dev](https://guptag.sites.northeastern.edu/)
 
 ---
 
@@ -668,20 +638,6 @@ SOFTWARE.
 If you encounter any issues or have questions:
 
 1. **Check the [Troubleshooting](#troubleshooting) section**
-2. **Search [existing issues](https://github.com/yourusername/grade-predictor/issues)**
+2. **Search [existing issues](https://github.com/g3x-gauransh/Exam-Score-Predictor/issues)**
 3. **Open a new issue** with details about your problem
-4. **Contact:** gauransh@example.com
-
----
-
-## 🌟 Star History
-
-If you find this project helpful, please consider giving it a ⭐!
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/grade-predictor&type=Date)](https://star-history.com/#yourusername/grade-predictor&Date)
-
----
-
-**Made with ❤️ and TensorFlow**
-
-*Last updated: December 2024*
+4. **Contact:** gauranshgupta99@gmail.com
