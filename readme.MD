@@ -7,17 +7,17 @@ A machine learning application that predicts student final exam scores based on 
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Model Details](#model-details)
-- [Data Generation](#data-generation)
-- [Results](#results)
-- [Troubleshooting](#troubleshooting)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
+- [Overview](#-overview)
+- [Features](#-features)
+- [Project Structure](#-project-structure)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Model Details](#-model-details)
+- [Data Generation](#-data-generation)
+- [Results](#-results)
+- [Troubleshooting](#-troubleshooting)
+- [Future Enhancements](#-future-enhancements)
+- [Contributing](#-contributing)
 
 ---
 
